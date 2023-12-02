@@ -18,7 +18,7 @@ if __name__ == '__main__':
 ```
 Unchained 101
 -------------
-💻 I am a Python Developer, Data Analyst and an IT Consultant.
+💻 I am a Python Developer & Data Analyst.
 🌟 Main languages: Python, JavaScript, C/C++.
 🔭 Working on Web Scraping, Data Analysis and API development.
 🌱 I am learning Rust, Golang, React, and MongoDB.
